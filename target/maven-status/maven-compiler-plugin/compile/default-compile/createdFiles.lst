@@ -1,0 +1,4 @@
+org\hyperborian\bt\pojo\TorrentDownloadStatus.class
+org\hyperborian\bt\pojo\TorrentMetainfo$ContentType.class
+org\hyperborian\bt\pojo\TorrentMetainfo.class
+org\hyperborian\bt\pojo\InfoHashPeerStat.class
